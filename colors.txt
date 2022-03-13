@@ -1,0 +1,9 @@
+Head Colors:
+#D4AF37
+#7a682c
+
+RGBA: 
+rgba(220, 172, 12, 0.2) //Included opacity
+
+#fffdf7
+#706951
